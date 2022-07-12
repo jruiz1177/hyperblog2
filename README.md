@@ -9,5 +9,6 @@ blog de prueba del curso de github
 * solucion de errores
 * creado por platzi team
 * incluye ejemplos en windows, linux y mac
+* disponible para todas las edades
 
 JAJAJA **Este readme es de practica** Solo es un ejemplo
