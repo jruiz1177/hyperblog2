@@ -7,5 +7,6 @@ blog de prueba del curso de github
 * todos los comando de git
 * todas las sentencias
 * solucion de errores
+* creado por platzi team
 
 JAJAJA **Este readme es de practica** Solo es un ejemplo
